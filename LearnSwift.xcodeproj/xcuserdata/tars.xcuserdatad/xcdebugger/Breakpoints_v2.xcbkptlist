@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearnSwift/Controllers/UserListing/UserListing_ResponseParser.swift"
+            timestampString = "546095326.098087"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "setResponseModel(dictValue:apiId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearnSwift/Controllers/UserListing/UserListing_VC.swift"
+            timestampString = "549054916.304691"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "UserCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearnSwift.UserCell.nameLbl.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "LearnSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tars/Desktop/VISHNU/LearnSwift/LearnSwift/Controllers/UserListing/UserListing_VC.swift"
+                  timestampString = "549056509.627474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearnSwift.UserCell.nameLbl.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "LearnSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tars/Desktop/VISHNU/LearnSwift/LearnSwift/Controllers/UserListing/UserListing_VC.swift"
+                  timestampString = "549056509.6297081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearnSwift.UserCell.init(frame: __C.CGRect) -&gt; LearnSwift.UserCell"
+                  moduleName = "LearnSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tars/Desktop/VISHNU/LearnSwift/LearnSwift/Controllers/UserListing/UserListing_VC.swift"
+                  timestampString = "549056509.6316791"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearnSwift.UserCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;LearnSwift.UserCell&gt;"
+                  moduleName = "LearnSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tars/Desktop/VISHNU/LearnSwift/LearnSwift/Controllers/UserListing/UserListing_VC.swift"
+                  timestampString = "549056509.633209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
