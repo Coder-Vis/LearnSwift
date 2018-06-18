@@ -1,7 +1,7 @@
 //
 //	StackSearchModel.swift
 //
-//	Create by Mukesh Yadav on 25/5/2018
+
 
 
 import Foundation
